@@ -1,2 +1,2 @@
 # DataScienceEcosystem_Repo
-Repository for Data Science Ecosystem Jupyter Notebook
+Repository for assignment in Jupyter Notebook titled "Data Science Ecosystem".
